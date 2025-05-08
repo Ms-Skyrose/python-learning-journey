@@ -1,0 +1,17 @@
+{
+    "1": {
+        "name": "James Peace",
+        "age": "23",
+        "student_class": "500l"
+    },
+    "2": {
+        "name": "Ezeka Victor",
+        "age": "22",
+        "student_class": "500l"
+    },
+    "3": {
+        "name": "KC",
+        "age": "23",
+        "student_class": "Graduate"
+    }
+}
